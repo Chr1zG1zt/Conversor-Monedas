@@ -31,7 +31,7 @@ La aplicación utiliza una API externa **Exchangerate-api** para obtener las cot
 
 ### 📥 Cómo usar la API Key
 
-1. **Crea el archivo:**  
+1. **Busca el archivo en esta ruta:**  
    `src/main/resources/api_key.txt`
 
 2. **Coloca tu clave en una sola línea:**  
