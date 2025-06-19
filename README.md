@@ -95,15 +95,15 @@ Botones de descarga:
 
 ### 🖼️ Interfaz consola
 
-![Modo Consola](src/main/resources/img/Modo-Consola.png)
-![Inrese su API KEY](src/main/resources/img/Ingreso-API-KEY.png)
+![Modo Consola](img/Modo-Consola.png)
+![Inrese su API KEY](img/Ingreso-API-KEY.png)
 
 ### 🖼️ Interfaz gráfica (GUI)
 
-![Modo GUI](src/main/resources/img/Modo-GUI.png)
-![Descargar archivos](src/main/resources/img/Descarga-Archivo.png)
-![Confirmar Descarga](src/main/resources/img/Confirmacion.png)
-![Salida de la App](src/main/resources/img/Salida-GUI.png)
+![Modo GUI](img/Modo-GUI.png)
+![Descargar archivos](img/Descarga-Archivo.png)
+![Confirmar Descarga](img/Confirmacion.png)
+![Salida de la App](img/Salida-GUI.png)
 
 ## 🛠️ Tecnologías utilizadas
 Java 21+
