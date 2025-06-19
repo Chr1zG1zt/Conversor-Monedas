@@ -93,16 +93,28 @@ Botones de descarga:
 
 ## 📸 Capturas de pantalla
 
-### 🖼️ Interfaz consola
+### 🖼️ Interfaz consola:
 
 ![Modo Consola](img/Modo-Consola.png)
+
+### Ingrese su API KEY:
+
 ![Inrese su API KEY](img/Ingreso-API-KEY.png)
 
 ### 🖼️ Interfaz gráfica (GUI)
 
 ![Modo GUI](img/Modo-GUI.png)
+
+### Descargar archivos en varios formatos:
+
 ![Descargar archivos](img/Descarga-Archivo.png)
+
+### Confirmar la descarga:
+
 ![Confirmar Descarga](img/Confirmacion.png)
+
+### Cerrar APP:
+
 ![Salida de la App](img/Salida-GUI.png)
 
 ## 🛠️ Tecnologías utilizadas
