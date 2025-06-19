@@ -1,0 +1,8 @@
+Resultado de la conversión:
+5.491,20 BRL
+
+Detalles de la consola:
+GUI del conversor iniciada.
+GUI: Solicitando conversión de 1000,00 USD a BRL...
+GUI: Conversión exitosa: 1000,00 USD = 5.491,20 BRL
+
